@@ -3,8 +3,14 @@
 
 # 2024
 
-first implementations, prototypes available for free and paid for sale on a global scale on mobile marketplaces, reinvestment and hiring new people to the team in the next year.
+First implementations, prototypes available for free and paid for sale on a global scale on mobile marketplaces, reinvestment and hiring new people to the team in the next year.
+Reports, Standardization, Meetings online
 
+Cost:
++ living expenses
++ time, focus on development 
++ looking for partners
++ spending time with customers
 
 functions:
 + monitoring
@@ -94,8 +100,18 @@ APP based on private cloud
 
 # 2025
 
+
+Expanding the scope of applications, adapting the software to specific customer needs, dedicated solutions
+on-site meetings at the customer's site with presentations of systems built into the vehicle
 Development of intelligent voice control systems on our own hardware
 
+
+Cost:
++ people
++ vehicle
++ towers
++ minipc
++ drone
 
 cooperation:
 + outsourcing
