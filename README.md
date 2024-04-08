@@ -21,13 +21,17 @@ platforms:
 
 activity:
 + development, networking, webinars, presentations, meetups, events
++ blog
++ newsletter
++ reports
 
 marketplaces:
 + Global market for mobile marketplaces
 
 standardisation:
-text.to.camera
-voice.to.camera
++ text.to.camera
++ voice.to.camera
++ image.to.camera
 
 reports:
 + teleoperator.info
@@ -39,20 +43,28 @@ reports:
 cooperation:
 + only outsourcing
 
+Sale:
+pojedyncze sztuki na miesiac
+pierwsze 100 eur do czerwca
+pierwsze 1000 eur do pazdziernika
+pierwsze 3000 eur do konca roku
 
-## surveil.camera CLOUD FREE
+Szkolenia z AI:
++ spolecznosc
++ materiay do praktycznych testow ML
++ projekty spakowane do testowania lokalnie i z pipeline gitlab
++ 100EUR/rok
+
+
+## surveil.camera WEB FREE
 
 for demonstration purpose with exiting camera in public space
 + web - public cloud
-
-
-## surveil.camera APP 10EUR /month /stream 
-
-for demonstration purpose with exiting camera in public space
-+ web - public cloud
++ to show new features on **cameraMonit**, **do.camera**, **voco.camera**
++ python, gitlab, pipelines, kubernetes
 + 
-+ on Premise - private cloud
 
+---
 
 ## cameraMonit APP FREE
 
@@ -63,7 +75,7 @@ APP based on public cloud
 
 
 
-## cameraMonit APP 20EUR /lifetime
+## cameraMonit APP 10EUR /lifetime
 
 APP based on private cloud
 + android - google play
@@ -72,21 +84,17 @@ APP based on private cloud
 
 
 
-## do.camera CLOUD FREE
-cloud based solution
+---
+
+## voco.camera CLOUD 10EUR /month /stream
+public cloud based solution
+
+for demonstration purpose with exiting camera in public space
++ web - public cloud
++ on Premise - private cloud
 
 
-
-## voco.camera APP FREE
-
-APP based on public cloud
-+ android - google play
-+ OS - app store
-+ Module for NAS systems
-
-
-
-## voco.camera APP 20EUR /lifetime
+## voco.camera APP 25EUR /lifetime
 
 APP based on private cloud
 + android - google play
@@ -169,17 +177,22 @@ APP based on public cloud
 + Module for NAS systems
 
 
+---
 
-## voco.camera 20EUR /lifetime
+## do.camera CLOUD 20EUR /month /stream
+public cloud based solution
+
+for demonstration purpose with exiting camera in public space
++ web - public cloud
++ on Premise - private cloud
+
+
+## do.camera APP 50EUR /lifetime
 
 APP based on private cloud
 + android - google play
-+ OS -
++ OS - app store
 + Module for NAS systems
-
-
-
-## voco.services marketplace
 
 
 
