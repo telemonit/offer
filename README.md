@@ -12,6 +12,9 @@ Cost:
 + looking for partners
 + spending time with customers
 
+przychody rzedu tysiecy
+
+
 functions:
 + monitoring
 + voice controlled camera
@@ -107,7 +110,7 @@ APP based on private cloud
 
 
 # 2025
-
+ przychody rzedu dziesiatek tysiecy
 
 Expanding the scope of applications, adapting the software to specific customer needs, dedicated solutions
 on-site meetings at the customer's site with presentations of systems built into the vehicle
@@ -225,3 +228,5 @@ activity:
 marketplaces:
 + Global partner network
 
+vehicles
++ transporter
