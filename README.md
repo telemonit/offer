@@ -20,6 +20,12 @@ Remote supervision:
 
 
 
+
+a tablet in hand, the tablet shows chat with messages as video from cameras with object detected by red lines around the objects and descriptions below. In last 4 videos you can see a video of people are shopping. Each video has a text description about objects detected. On last camera with red border and white text descitpion is a thief stealing products and running away in the parking
+
+tablet w ręku, tablet wyświetla czat z wiadomościami w postaci wideo z kamer z obiektem wykrytym czerwonymi liniami wokół obiektów i opisów poniżej. W ostatnich 4 filmach widać film przedstawiający ludzi robiących zakupy. Do każdego filmu dołączony jest tekstowy opis wykrytych obiektów. Na ostatniej kamerze z czerwoną ramką i białym opisem jest złodziej kradnący produkty i uciekający z parkingu
+
+
 ## Smarthome
 
 Wykrywanie wandalizmu, kradzieży
