@@ -1,0 +1,11 @@
+title: "Telemonit Offer - remote supervision"
+description: "Voice control and notifications in security camera systems, Sprachsteuerung und Benachrichtigungen in Überwachungskamerasystemen, Głosowa kontrola i powiadomienia w systemach kamer bezpieczeństwa"
+mermaid:
+  src: "mermaid.js"
+plugins:
+  - "jekyll-github-metadata"
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false

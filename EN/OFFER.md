@@ -1,10 +1,4 @@
-
-## Language [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/telemonit/www/edit/main/EN/MENU.md)
-
-+ [Deutsch](/DE)
-+ [Polski](/PL)
-
-## [telemonit offer](https://offer.telemonit.com/) [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/telemonit/www/edit/main/EN/OFFER.md)
+## [telemonit offer](https://offer.telemonit.com/)
 
 
 The **telemonit** offering enables efficient management of work and task coordination regardless of geographical barriers, managing projects or teams remotely using communication technologies.
@@ -86,22 +80,3 @@ Integration of old and new systems without additional infrastructure or camera i
 ![img_11.png](../img/img_11.png)
 
 ![img_12.png](../img/img_12.png)
-
- [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/telemonit/www/edit/main/DOCS/FOOT.md)
-
-<script type="module">    
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({
-    startOnReady:true,
-    theme: 'forest',
-    flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-  });
-  mermaid.init(undefined, '.language-mermaid');
-</script>
- 
-
----
-+ Modular Documentation made possible by the [FlatEdit](http://www.flatedit.com) project.
