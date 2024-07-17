@@ -1,49 +1,48 @@
 ![img_15.png](img/img_15.png)
 # [telemonit](https://www.telemonit.com/)
 
-Sprachbenachrichtigungen über Ereignisse und Objekte von Überwachungskameras
-Oferta **telemonit** pozwala na efektywne zarządzanie pracą i koordynację zadań niezależnie od barier geograficznych, kierowanie projektem lub grupą osób z odległości, wykorzystując technologie komunikacyjne.
+Die Angebotsreihe von **telemonit** ermöglicht es effiziente Arbeits- und Aufgabenkoordination unabhängig von geografischen Barrieren, Projekt- oder Gruppenleitung aus der Ferne mithilfe von Kommunikationstechnologien.
 
-+ [CameraMonit - Surveillance Integration](http://www.cameramonit.com) - Rejestrator video z detekcją obiektów sterowany głosowo
-+ [VoCo.Cam - Voice Controlled Camera](http://www.vococam.com)
-+ [CameraMind - Detection and Notification](http://www.cameramind.com)
-+ [Do.Camera - From Vision to Action](http://www.docamera.com)
-
++ [CameraMonit - Überwachungsintegration](http://www.cameramonit.com) - Videoaufzeichnung mit Objekterkennung, die durch Sprache gesteuert wird
++ [VoCo.Cam - Sprachgesteuerte Kamera](http://www.vococam.com)
++ [CameraMind - Erkennung und Benachrichtigung](http://www.cameramind.com)
++ [Do.Camera - Von der Vision zur Aktion](http://www.docamera.com)
 
 
-Remote supervision:
-+ telemonitoring
-+ telemedycyna
-+ telematyka
-+ prywatnosc
-+ nadzor
+
+Remoten Überwachung:
++ Telemonitoring
++ Telemedizin
++ Telematik
++ Datenschutz
++ Überwachung
 
 
 
 ## Smarthome
 
-Wykrywanie wandalizmu, kradzieży
+Detektion von Vandalismus, Diebstahl
 ![img_8.png](img/img_8.png)
 
 
-Standardowy monitoring z powiadamianiem głosowym
+Standardmäßige Überwachung mit sprachlichem Benachrichtigen
 ![img.png](img/img.png)
 
 
 
 
-## Industry 4.0
+## Industrie 4.0
 
 
-Optymalizacja pracy zespołów bezpieczeństwa
+Optimierung der Arbeitszeit von Sicherheitsgruppen
 ![img_2.png](img/img_2.png)
 
 
-kontrola obiektów
+Objektkontrolle
 ![img_10.png](img/img_10.png)
 
 
-Wsparcie pracy osób nadzorujących obiekty i infrastrukturę
+Unterstützung der Arbeit von Personen, die Objekte und Infrastrukturen überwachen
 ![img_5.png](img/img_5.png)
 
 
@@ -52,39 +51,39 @@ Wsparcie pracy osób nadzorujących obiekty i infrastrukturę
 ## Smart City
 
 
-Kontrola osób w miejscach publicznych
+Kontrolle von Personen in öffentlichen Räumen
 ![img_9.png](img/img_9.png)
 
 
-Zdalna kontrola osobista
+Distanzielle persönliche Kontrolle
 ![img_6.png](img/img_6.png)
 
 
 
 
-## Korzysci 
+## Vorteile
 
-Szybkie powiadamianie telefoniczne lub na komunikatorze
+
+Schnelles telefonisches oder Messenger-Benachrichtigen
 ![img_13.png](img/img_13.png)
 
 
-Szybsza reakcja i wezwanie bepieczenstwa
+Schnellere Reaktion und Notruf
 ![img_1.png](img/img_1.png)
 
 
-Person and Object Detection - detekcja osob i obiektow
+Person und Objekterkennung - Erkennung von Personen und Objekten
 ![img_3.png](img/img_3.png)
 
-Car detection - detekcja pojazdow
+Fahrzeugerkennung - Erkennung von Fahrzeugen
 ![img_4.png](img/img_4.png)
 
 
-Zmniejszenie ilości osób potrzebnych do podejmowania decyzji, zarządzania i koordynacji
+Reduzierung der Anzahl von Personen, die Entscheidungen treffen, verwalten und koordinieren müssen
 ![img_7.png](img/img_7.png)
 
 
-Integracja starych i nowych systemów bez dodatkowych iwestycji w infrastrukurę czy kamery
+Integration alter und neuer Systeme ohne zusätzliche Investitionen in Infrastruktur oder Kameras
 ![img_11.png](img/img_11.png)
 
 ![img_12.png](img/img_12.png)
-

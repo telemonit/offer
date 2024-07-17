@@ -1,5 +1,5 @@
 
-## Language [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/telemonit/www/edit/main/EN/MENU.md)
+## Language [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/telemonit/www/edit/main/DOCS/MENU.md)
 
 + [Deutsch](/DE)
 + [Polski](/PL)
